@@ -1,5 +1,5 @@
 
 just edited by featureB
 ----
-edited by featureA branch
+edited by featureA branch, edited by featureB
 
